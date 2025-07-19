@@ -1,0 +1,6 @@
+Webhook URL
+https://webhooks.hostinger.com/deploy/fa9cccb5d95ed2f7178a01648e811cdc
+Setup webhook on Github:
+https://github.com/jdhtwo/www/settings/hooks/new
+Setup tutorial
+https://github.com/jdhtwo/www/settings/hooks/new
